@@ -24,3 +24,5 @@ Overall, the system is aimed at providing a simple, reliable, and easy-to-use se
 <div align="center">
 <img src="https://github.com/user-attachments/assets/34863cf1-c323-4de7-b558-85bb46bd599a" width="60%" />
 </div>
+
+Author: Prithvi Raj Singh (shinobi-14)
